@@ -10,4 +10,6 @@ public interface CustomerService {
 	public void saveCustomer(Customer customer);
 
 	public Customer getCustomers(int theID);
+
+	public void deleteCustomer(int theId);
 }
