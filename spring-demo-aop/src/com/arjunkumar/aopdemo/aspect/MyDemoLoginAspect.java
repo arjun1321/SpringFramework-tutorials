@@ -12,7 +12,9 @@ public class MyDemoLoginAspect {
 	
 	// Before Advice
 	
-	@Before("execution(* add*())")
+	@Before("execution(* com.arjunkumar.aopdemo.dao.*.*(..))")
+//	@Before("execution(* add*(..))")
+//	@Before("execution(* add*(com.arjunkumar.aopdemo.Account, ..))")
 //	@Before("execution(void add*())")
 //	@Before("execution(public void add*())")
 //	@Before("execution(public void com.arjunkumar.aopdemo.dao.AccountDAO.addAccount())")
