@@ -31,6 +31,8 @@
 <fullyQualifiedTypeName name="com.arjunkumar.aopdemo.DemoConfig"/>
 <fullyQualifiedTypeName name="com.arjunkumar.aopdemo.dao.AccountDAO"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="com.arjunkumar.aopdemo.dao.MembershipDAO"/>
+<fullyQualifiedTypeName name="com.arjunkumar.aopdemo.Account"/>
 </qualifiedTypeNameHistroy>
