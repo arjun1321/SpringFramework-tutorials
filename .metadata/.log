@@ -7878,3 +7878,9 @@ Contains: Missing javax.servlet.jsp:javax.servlet.jsp-api:jar:sources:3.1.0
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-12 21:07:38.006
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-12 23:23:52.115
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-04-12 23:23:52.118
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
